@@ -25,4 +25,4 @@ There are a few files in utils:
 - The `verifyProof.js` should also look familiar. This was the last stage in the module. You can use this function to prove a name is in the merkle root, as show in the example.
 
 # disclaimer
-This exercise shell from Alchemy university.
+This exercise shell comes from Alchemy university.
